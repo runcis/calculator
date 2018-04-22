@@ -1,0 +1,13 @@
+.Button {
+    -fx-background-color: #660066;
+    -fx-font: sans-serif;
+    -fx-text-fill: white;
+}
+
+.Cbutton {
+    -fx-background-color: #999900;
+}
+
+.window {
+    -fx-background-color: #ebe3f3
+}
